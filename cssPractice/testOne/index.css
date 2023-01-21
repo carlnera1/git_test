@@ -1,0 +1,12 @@
+.titleHeader {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:700;
+    color:blue;
+}
+
+.extMethod {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+    color: white;
+    font-size: 32px;
+}
